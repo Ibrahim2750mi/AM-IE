@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+papers
+
+vocab_flat.json
+vocab_tree.json
+
+.idea
+extraction_results.json
